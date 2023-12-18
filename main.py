@@ -5,5 +5,5 @@ def welcome():
     print("GITHUB ACTION DEMO")
 
 
-    print("this is sample of")
+    print("This is sample of")
     welcome()
